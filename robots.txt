@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://arindaam.com/portfolio/sitemap/sitemap-index.xml
+Sitemap: https://arindaam.com/sitemap/sitemap-index.xml
 Host: https://arindaam.com

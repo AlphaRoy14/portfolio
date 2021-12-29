@@ -43,8 +43,8 @@ const StyledNav = styled.nav`
     border: 0.125rem solid ${({ theme }) => theme.colors.primary};
     background-image: linear-gradient(white, white), linear-gradient(to right, green, gold);
     // border-image: linear-gradient(to right, darkblue, darkorchid) 1;
-    background: url(https://source.unsplash.com/vqTWfa4DjEk/600x300);
-    // background: ${({ theme }) => theme.colors.background};
+    // background: url(https://source.unsplash.com/vqTWfa4DjEk/600x300);
+    background: ${({ theme }) => theme.colors.background};
     transition: 20ms ease-out;
     font-size: 1rem;
     padding: 0.5rem 1.5rem;

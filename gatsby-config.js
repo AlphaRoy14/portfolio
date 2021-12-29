@@ -10,6 +10,7 @@ const {
 } = require(`./config`)
 
 module.exports = {
+  pathPrefix: "/portfolio",
   siteMetadata: {
     author: author,
     title: siteTitle,

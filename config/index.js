@@ -102,7 +102,7 @@ module.exports = {
     button: {
       useFileName: true,
       name: "Resume",
-      fileName: "Arindaam_roy_cv_2021.pdf", // the file has to be placed inside the static folder at the root level
+      fileName: "Arindaam_cv_2022_jan.pdf", // the file has to be placed inside the static folder at the root level
       url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },

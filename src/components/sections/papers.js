@@ -169,7 +169,7 @@ const Papers = () => {
               "start-date": "2021-01-02",
               "end-date": "2021-09-20",
               "date": "2018-05-15",
-              "link": "https://arxiv.org/submit/4094952/view",
+              "link": "http://arxiv.org/abs/2112.14464",
               "categories": "ECS260"
             }
         ]

@@ -203,7 +203,6 @@ const Projects = ({ content }) => {
   const { darkMode } = useContext(Context).state
   const sectionDetails = content[0].node
   const projects = content.slice(1, content.length)
-  console.log("PROJSSS ARE ", projects)
   
 
   // visibleProject is needed to show which project is currently

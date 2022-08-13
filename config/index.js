@@ -71,7 +71,7 @@ module.exports = {
     {
       name: "Github",
       url:
-        "https://github.com/alpharoy14",
+        "https://github.com/royari",
     },
     {
       name: "Twitter",
@@ -102,7 +102,7 @@ module.exports = {
     button: {
       useFileName: true,
       name: "Resume",
-      fileName: "Arindaam_cv_2022_Jan.pdf", // the file has to be placed inside the static folder at the root level
+      fileName: "Arindaam_Roy_Resume.pdf", // the file has to be placed inside the static folder at the root level
       url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },

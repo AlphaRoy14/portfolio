@@ -62,7 +62,7 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/arindaam-roy/",
+      url: "https://www.linkedin.com/in/arindaam",
     },
     // {
     //   name: "Medium",
